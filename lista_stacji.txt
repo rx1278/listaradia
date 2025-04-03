@@ -1,0 +1,32 @@
+Playlist=Polskie stacje
+ESKA; https://waw.ic.smcdn.pl/2380-1.aac
+ESKA 2; https://waw.ic.smcdn.pl/1380-1.aac
+ESKA 2 Polskie Na Czasie; https://waw.ic.smcdn.pl/6230-1.aac
+ESKA 2 Disco Polo; https://waw.ic.smcdn.pl/6110-1.aac
+ESKA Summer City; https://waw.ic.smcdn.pl/6120-1.aac
+ESKA Rock; https://waw.ic.smcdn.pl/5980-1.aac
+ESKA Impreska; https://waw.ic.smcdn.pl/6030-1.aac
+RMF FM; https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48
+RMF Maxxx; https://rs202-krk.rmfstream.pl/RMFMAXXX48
+RMF Top 5 Disco Polo; https://rs9-krk2-cyfronet.rmfstream.pl/TOP5RNB
+Radio Zet; https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
+PR Jedynka; http://mp3.polskieradio.pl:8900/;
+PR Dwójka; http://mp3.polskieradio.pl:8902/;
+PR Trójka; http://mp3.polskieradio.pl:8904/;
+PR Czwórka; http://stream3.polskieradio.pl:8906/;
+VOX FM; https://waw.ic.smcdn.pl/3990-1.aac
+VOX FM Disco 90; https://waw.ic.smcdn.pl/6170-1.aac
+Radio Pogoda; https://radiostream.pl/tuba140-1.aac
+Radio Dla Ciebie; https://stream4.nadaje.com:14007/plock
+Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
+Anty Radio; https://redir.atmcdn.pl/sc/o2/Eurozet/live/antyradio.livx
+Tok FM; https://radiostream.pl/tuba10-1.mp3
+Radio Victoria; http://stream.v4.radiovictoria.pl:8176/;
+Radio Bogoria; http://s6.radiohost.pl:8888/;
+Radio FAMA Żyrardow; http://stream4.nadaje.com:13770
+Mbox; https://s1.slotex.pl:7462/;
+Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
+Mbox Gold Hits; https://s3.slotex.pl:7276/stream
+Mbox Disco Polo; https://s3.slotex.pl:7222/stream
+Najpiękniejsze polskie; http://stream3.polskieradio.pl:8420
+Przeboje Lata z Radiem; http://stream3.polskieradio.pl:8426
